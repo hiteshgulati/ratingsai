@@ -1,0 +1,52 @@
+from bs4 import BeautifulSoup as soup
+from urllib.request import urlopen as u_req
+
+
+
+def run():
+    string = "Sita Ram & Company"
+    page_url = print (url_maker(string))
+    get_containers(page_url)
+    pass
+
+
+def get_listed_companies(containers):
+    c = {}
+    flag = 0
+    cin = ""
+    for item_tag in containers:
+        item = str(item_tag)
+        if flag == 1:
+            c[cin] = item[4:-5]
+            flag = 0
+        if item[:5] == "<h5>L" and len(item) == 30 :
+            cin = item[4:-5]
+            flag = 1
+    return c
+
+
+def get_containers(page_url):
+    u_client = u_req(page_url, timeout=10)
+    page_html = u_client.read()
+    u_client.close()
+    page_soup = soup(page_html, 'html.parser')
+    containers = page_soup.findAll("h5")
+    return containers
+
+def url_maker(search_string):
+    base_url = "https://www.zaubacorp.com/companysearchresults/"
+    search_string_url = ""
+    for e in search_string:
+        if e.isalnum():
+            search_string_url += e.lower()
+        else:
+            search_string_url += "-"
+    search_url = base_url + search_string_url
+    return search_url
+
+    pass
+
+
+
+if __name__ == '__main__':
+    run()
