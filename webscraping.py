@@ -6,7 +6,8 @@ crisil_search_page = "https://www.crisil.com/en/home/Search-Result-Page."
 
 
 def run():
-    make_crisil_code_file()
+    #make_crisil_code_file(source_file = "data/listed_companies.xlsx")
+
     # print(get_company_code("alacrity securities limited"))
     pass
 
