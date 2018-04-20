@@ -1,14 +1,26 @@
-from bs4 import BeautifulSoup as soup
-from urllib.request import urlopen as url_req
-import pandas as pd
-
+# from bs4 import BeautifulSoup as soup
+# from urllib.request import urlopen as url_req
+#import pandas as pd
+from datetime import date
 crisil_search_page = "https://www.crisil.com/en/home/Search-Result-Page."
 
 
 def run():
-    #make_crisil_code_file(source_file = "data/listed_companies.xlsx")
-
+    #make_crisil_code_file(source_file = "data/listed_companies2.xlsx")
+    print(make_crisil_rr_url(rr_date=date(2016,1,28)))
     # print(get_company_code("alacrity securities limited"))
+    pass
+
+
+def make_crisil_rr_url (company_name= "ambika cotton mills limited",
+                        rr_date = date.today().replace(year=2017)):
+    url_1of4 = "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/"
+    url_2of4 = company_name.replace(" ","_")
+    url_3of4 = rr_date.strftime('_%B_%d_%Y_')
+    url_4of4 = "RR.html"
+    return (url_1of4 + url_2of4 + url_3of4 + url_4of4)
+
+
     pass
 
 
@@ -33,7 +45,7 @@ def make_search_url(company_name = "vip industries limited"):
     pass
 
 
-def get_company_code (company_name = "vip industries limited"):
+def get_company_code (company_name ="vip industries limited"):
     search_url  = make_search_url(company_name)
     url_client = url_req(search_url)
     page_html = url_client.read()

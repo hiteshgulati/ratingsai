@@ -14,7 +14,7 @@
       <file leaf-file-name="ai.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ai.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="153">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
@@ -24,8 +24,8 @@
       <file leaf-file-name="dataprep.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataprep.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="323">
+              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
               <folding>
                 <element signature="e#86#105#0" expanded="true" />
                 <element signature="e#3381#3804#0" expanded="false" />
@@ -38,12 +38,12 @@
       <file leaf-file-name="webscraping.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webscraping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+            <state relative-caret-position="170">
+              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding>
-                <element signature="e#0#37#0" expanded="true" />
-                <element signature="e#412#767#0" expanded="false" />
-                <element signature="e#836#987#0" expanded="false" />
+                <element signature="e#902#1257#0" expanded="false" />
+                <element signature="e#1326#1477#0" expanded="false" />
+                <element signature="e#1547#2012#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -230,6 +230,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataprep.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#86#105#0" expanded="true" />
+            <element signature="e#3381#3804#0" expanded="false" />
+            <element signature="e#3868#4006#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webscraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding>
+            <element signature="e#902#1257#0" expanded="false" />
+            <element signature="e#1326#1477#0" expanded="false" />
+            <element signature="e#1547#2012#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#86#105#0" expanded="true" />
+            <element signature="e#3381#3804#0" expanded="false" />
+            <element signature="e#3868#4006#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webscraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <folding>
+            <element signature="e#902#1257#0" expanded="false" />
+            <element signature="e#1326#1477#0" expanded="false" />
+            <element signature="e#1547#2012#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#86#105#0" expanded="true" />
+            <element signature="e#3381#3804#0" expanded="false" />
+            <element signature="e#3868#4006#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webscraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <folding>
+            <element signature="e#902#1257#0" expanded="false" />
+            <element signature="e#1326#1477#0" expanded="false" />
+            <element signature="e#1547#2012#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprep.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding>
@@ -398,24 +494,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ai.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web scraping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web scraping.py" />
     <entry file="file://$PROJECT_DIR$/dataprep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="323">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <element signature="e#86#105#0" expanded="true" />
             <element signature="e#3381#3804#0" expanded="false" />
@@ -426,12 +515,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webscraping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        <state relative-caret-position="170">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
-            <element signature="e#412#767#0" expanded="false" />
-            <element signature="e#836#987#0" expanded="false" />
+            <element signature="e#902#1257#0" expanded="false" />
+            <element signature="e#1326#1477#0" expanded="false" />
+            <element signature="e#1547#2012#0" expanded="false" />
           </folding>
         </state>
       </provider>
