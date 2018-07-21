@@ -21,11 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dataprep.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dataprep.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataprep.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="25" />
+            <state relative-caret-position="952">
+              <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
               <folding>
                 <element signature="e#86#105#0" expanded="true" />
                 <element signature="e#3381#3804#0" expanded="false" />
@@ -35,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webscraping.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="webscraping.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webscraping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="-86">
               <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
               <folding>
                 <element signature="e#902#1257#0" expanded="false" />
@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -190,8 +190,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="1" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34895834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -558,18 +557,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web scraping.py" />
-    <entry file="file://$PROJECT_DIR$/webscraping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="e#902#1257#0" expanded="false" />
-            <element signature="e#1326#1477#0" expanded="false" />
-            <element signature="e#1547#2012#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ai.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -580,12 +567,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataprep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="25" />
+        <state relative-caret-position="952">
+          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
           <folding>
             <element signature="e#86#105#0" expanded="true" />
             <element signature="e#3381#3804#0" expanded="false" />
             <element signature="e#3868#4006#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webscraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#902#1257#0" expanded="false" />
+            <element signature="e#1326#1477#0" expanded="false" />
+            <element signature="e#1547#2012#0" expanded="false" />
           </folding>
         </state>
       </provider>
